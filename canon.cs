@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Polymorphism_21._11._4508
+namespace Polymorphism_21._11._4540
 {
     public class Canon : PrinterWindows
     {
